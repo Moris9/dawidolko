@@ -20,6 +20,6 @@ Możesz mnie znaleźć tutaj:
 
 Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
 
-Email: dawid_olko@outlook.com
-
 Dawid 👨‍💻
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical)
