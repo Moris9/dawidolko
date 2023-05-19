@@ -18,7 +18,7 @@ Możesz mnie znaleźć tutaj:
 
 [Instagram](https://www.instagram.com/dawid_olko)
 
-[Email: ](dawid_olko@outlook.com)dawid_olko@outlook.com
+Email: dawid_olko@outlook.com
 
 
 Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
