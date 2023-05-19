@@ -10,15 +10,15 @@ Zapraszam do zapoznania się z moimi projektami i do skontaktowania się ze mną
 
 Możesz mnie znaleźć tutaj:
 
-[LinkedIn](https://www.linkedin.com/in/dawidolko/)
+[LinkedIn](https://www.linkedin.com/in/dawidolko)
 
 [Twitter](https://twitter.com/dawidolko)
 
-[Facebook](https://www.facebook.com/Dawid.0lko/)
+[Facebook](https://www.facebook.com/Dawid.0lko)
 
-[Instagram](instagram.com/dawid_olko/)
+[Instagram](https://www.instagram.com/dawid_olko)
 
-[Email](dawid_olko@outlook.com)
+[Email: dawid_olko@outlook.com](dawid_olko@outlook.com)
 
 
 Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
