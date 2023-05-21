@@ -1,4 +1,4 @@
-Cześć, jestem Dawid! 👋
+# Cześć, jestem Dawid! 👋
 
 Jestem studentem informatyki z zamiłowaniem do technologii, programowania i sztucznej inteligencji. 🧠💻 Jestem zawsze głodny nowej wiedzy i staram się poznać najnowsze trendy i narzędzia, które pomagają mi tworzyć innowacyjne rozwiązania.
 
@@ -8,7 +8,7 @@ Na moim GitHubie znajdziesz różne projekty związane z programowaniem i sztucz
 
 Zapraszam do zapoznania się z moimi projektami i do skontaktowania się ze mną, jeśli masz pytania lub chciałbyś omówić możliwości współpracy.
 
-Możesz mnie znaleźć tutaj:
+# Możesz mnie znaleźć tutaj:
 
 ⚡[LinkedIn](https://www.linkedin.com/in/dawidolko)
 
@@ -25,10 +25,9 @@ Dawid 👨‍💻
 ![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
 ![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
-🌐 **Connect with me:**
+# 🌐 **Connect with me:**
 
-![Poczta](icone-de-courrier-electronique-noir.png)
-
-![LikedIn](https://github.com/dawidolko/dawidolko/blob/2a2353d63a19005d0858ad0161ede08bbbe055aa/174857.png)
+[![Email](https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/Email.png)](https://outlook.live.com/mail/0/)
+[![LikedIn](https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/LikedIn.png)](https://www.linkedin.com/in/dawidolko/)
 
 
