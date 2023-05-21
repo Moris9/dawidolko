@@ -25,5 +25,10 @@ Dawid 👨‍💻
 ![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
 ![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
-🌐 #**Connect with me:**
+🌐 **Connect with me:**
+
+![Poczta](icone-de-courrier-electronique-noir.png)
+
+![LikedIn](https://github.com/dawidolko/dawidolko/blob/2a2353d63a19005d0858ad0161ede08bbbe055aa/174857.png)
+
 
