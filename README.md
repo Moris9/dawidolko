@@ -15,15 +15,6 @@ Dawid 👨‍💻
 ![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
 ![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
-# Możesz mnie znaleźć tutaj:
-
-<p align="center">
-  ⚡<a href="https://www.linkedin.com/in/dawidolko">LinkedIn</a>⚡
-  <a href="https://twitter.com/dawidolko">Twitter</a>⚡
-  <a href="https://www.facebook.com/Dawid.0lko">Facebook</a>⚡
-  <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
-</p>
-
 # 🌐 **Connect with me:**
 
 <p align="center">
@@ -33,5 +24,11 @@ Dawid 👨‍💻
     <a href="https://www.linkedin.com/in/dawidolko/">
         <img src="https://github.com/dawidolko/dawidolko/blob/56f78da9946c4f997a8778685bd26229b2da750c/LikedIn.png" alt="LinkedIn">
     </a>
+</p>
+<p align="center">
+  ⚡<a href="https://www.linkedin.com/in/dawidolko">LinkedIn</a>⚡
+  <a href="https://twitter.com/dawidolko">Twitter</a>⚡
+  <a href="https://www.facebook.com/Dawid.0lko">Facebook</a>⚡
+  <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
 </p>
 
