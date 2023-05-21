@@ -23,3 +23,5 @@ Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
 Dawid 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
+
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/dawidolko/github-readme-stats)
