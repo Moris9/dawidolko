@@ -12,8 +12,15 @@ Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
 
 Dawid 👨‍💻
 
-![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
-![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
+<div style="display: flex; justify-content: center;">
+  <a href="https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical" alt="nullfresh's GitHub stats">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact" alt="Dawid's Most Used Languages">
+  </a>
+</div>
+
 
 # **Languages:**
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dawidolko)
