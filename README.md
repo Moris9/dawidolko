@@ -8,16 +8,6 @@ Na moim GitHubie znajdziesz różne projekty związane z programowaniem i sztucz
 
 Zapraszam do zapoznania się z moimi projektami i do skontaktowania się ze mną, jeśli masz pytania lub chciałbyś omówić możliwości współpracy.
 
-# Możesz mnie znaleźć tutaj:
-
-⚡[LinkedIn](https://www.linkedin.com/in/dawidolko)
-
-⚡[Twitter](https://twitter.com/dawidolko)
-
-⚡[Facebook](https://www.facebook.com/Dawid.0lko)
-
-⚡[Instagram](https://www.instagram.com/dawid_olko)
-
 Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
 
 Dawid 👨‍💻
@@ -25,9 +15,18 @@ Dawid 👨‍💻
 ![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
 ![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
+# Możesz mnie znaleźć tutaj:
+
+⚡[LinkedIn](https://www.linkedin.com/in/dawidolko)⚡[Twitter](https://twitter.com/dawidolko)⚡[Facebook](https://www.facebook.com/Dawid.0lko)⚡[Instagram](https://www.instagram.com/dawid_olko)⚡
+
 # 🌐 **Connect with me:**
 
-[![Email](https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/Email.png)](https://outlook.live.com/mail/0/)
-[![LikedIn](https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/LikedIn.png)](https://www.linkedin.com/in/dawidolko/)
+<p align="center">
+  <img width="460" height="300" src="[![Email](https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/Email.png)](https://outlook.live.com/mail/0/)">
+</p>
+<p align="center">
+  <img width="460" height="300" src="[![LikedIn](https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/LikedIn.png)](https://www.linkedin.com/in/dawidolko/)">
+</p>
+
 
 
