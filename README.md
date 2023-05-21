@@ -17,7 +17,12 @@ Dawid 👨‍💻
 
 # Możesz mnie znaleźć tutaj:
 
-⚡[LinkedIn](https://www.linkedin.com/in/dawidolko)⚡[Twitter](https://twitter.com/dawidolko)⚡[Facebook](https://www.facebook.com/Dawid.0lko)⚡[Instagram](https://www.instagram.com/dawid_olko)⚡
+<p align="center">
+  ⚡<a href="https://www.linkedin.com/in/dawidolko">LinkedIn</a>⚡
+  <a href="https://twitter.com/dawidolko">Twitter</a>⚡
+  <a href="https://www.facebook.com/Dawid.0lko">Facebook</a>⚡
+  <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
+</p>
 
 # 🌐 **Connect with me:**
 
