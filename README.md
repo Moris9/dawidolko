@@ -25,5 +25,5 @@ Dawid 👨‍💻
 ![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
 ![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
-##🌐 **Connect with me:**
+##🌐 **Connect with me:**##
 
