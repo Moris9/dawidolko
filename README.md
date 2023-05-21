@@ -12,6 +12,9 @@ Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
 
 Dawid 👨‍💻
 
+![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
+![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
+
 # **Languages:**
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dawidolko)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/dawidolko)
@@ -19,9 +22,6 @@ Dawid 👨‍💻
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/dawidolko)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/dawidolko)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dawidolko)
-
-![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
-![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
 # 🌐 **Connect with me:**
 
@@ -39,4 +39,15 @@ Dawid 👨‍💻
   <a href="https://www.facebook.com/Dawid.0lko">Facebook</a>⚡
   <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
 </p>
+
+<p align="center">
+<a href="https://www.instagram.com/dawid_olko/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Wandrys-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:dawid_olko@outlook.com"><img alt="Email" src="https://outlook.live.com/mail/0/"></a>
+</p>
+
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+</p>
+
 
