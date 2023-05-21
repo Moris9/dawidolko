@@ -25,7 +25,5 @@ Dawid 👨‍💻
 ![nullfresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical)
 ![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
 
-![Dawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical&count_private=true)
-![Dawid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dawidolko&repo=nazwa-repozytorium&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dawidolko&repo=Programming-C&theme=radical)
 
