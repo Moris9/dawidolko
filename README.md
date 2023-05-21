@@ -17,7 +17,7 @@ Dawid 👨‍💻
     <img src="https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical" alt="nullfresh's GitHub stats">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact" alt="Dawid's Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact" alt="nullfresh's Most Used Languages">
   </a>
 </div>
 
@@ -47,14 +47,9 @@ Dawid 👨‍💻
   <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
 </p>
 
-<p align="center">
-<a href="https://www.instagram.com/dawid_olko/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Wandrys-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:dawid_olko@outlook.com"><img alt="Email" src="https://outlook.live.com/mail/0/"></a>
-</p>
-
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
 </p>
 
 
