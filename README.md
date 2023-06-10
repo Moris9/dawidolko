@@ -1,14 +1,14 @@
 # Hi, I am Dawid! 👋
 
-Jestem studentem informatyki z zamiłowaniem do technologii, programowania i sztucznej inteligencji. 🧠💻 Jestem zawsze głodny nowej wiedzy i staram się poznać najnowsze trendy i narzędzia, które pomagają mi tworzyć innowacyjne rozwiązania.
+I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠💻 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions.
 
-Moja pasja do sztucznej inteligencji nie kończy się na studiach - dążę do zrozumienia jej różnych aspektów i jak można je wykorzystać do rozwiązywania realnych problemów. Wierzę, że przyszłość technologii leży w rękach AI, i jestem podekscytowany, że mogę być częścią tej przyszłości.
+My passion for artificial intelligence goes beyond my studies - I aim to understand its various aspects and how it can be applied to solve real-world problems. I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.
 
-Na moim GitHubie znajdziesz różne projekty związane z programowaniem i sztuczną inteligencją, które pokazują mój rozwój i naukę w tych obszarach. Przy każdym projekcie staram się uczyć czegoś nowego i rozwijać swoje umiejętności.
+On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. With each project, I aim to learn something new and enhance my skills.
 
-Zapraszam do zapoznania się z moimi projektami i do skontaktowania się ze mną, jeśli masz pytania lub chciałbyś omówić możliwości współpracy.
+Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
 
-Dzięki za odwiedzenie mojego profilu. Cieszę się, że jesteś tutaj! 🎉
+Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid 👨‍💻
 
@@ -28,7 +28,6 @@ Dawid 👨‍💻
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/dawidolko)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/dawidolko)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/dawidolko)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dawidolko)
 
 # 🌐 **Connect with me:**
 
