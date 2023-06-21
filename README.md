@@ -15,7 +15,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid 👨‍💻
 
-### You can check my profile stats here.😊
+# You can check my profile stats here.😊
 
 <div align="center">
   
@@ -41,12 +41,15 @@ Dawid 👨‍💻
 </div>
 
 
-# **Languages:**
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dawidolko)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/dawidolko)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/dawidolko)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/dawidolko)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/dawidolko)
+# Skills & Technologies
+
+<div align="center">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jc,cpp,cs,java,py,js,html,css,ts,git,visualstudio,vscode,idea" />
+  </a>
+</p>
+</div>
 
 # 🌐 **Connect with me:**
 
