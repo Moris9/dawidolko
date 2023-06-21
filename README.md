@@ -30,13 +30,14 @@ Dawid 👨‍💻
   </div>
 
   
-<div style="display: flex; justify-content: center;">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&theme=radical&layout=compact" alt="nullfresh's Most Used Languages">
-  </a>
+<div align="center">
   <a href="https://github.com/dawidolko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&card_width=50%&theme=transparent" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Matusz&langs_count=8&theme=tokyonight" alt="Language stats.">
 </div>
 
 
