@@ -46,7 +46,7 @@ Dawid 👨‍💻
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jc,cpp,cs,java,py,js,html,css,ts,git,visualstudio,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,ts,git,visualstudio,vscode,idea" />
   </a>
 </p>
 </div>
