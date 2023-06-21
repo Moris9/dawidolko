@@ -15,6 +15,24 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid 👨‍💻
 
+### You can check my profile stats here.😊
+
+<div align="center">
+  
+  <a href="https://github.com/Ilvondir">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&card_width=100%&theme=transparent" />
+  </a>
+  
+  <a href="https://github.com/Ilvondir">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawidolko&hide_border=true&card_width=50%&theme=transparent" />
+  </a>
+  
+  <a href="https://github.com/Ilvondir">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&card_width=50%&theme=transparent" />
+  </a>
+  
+</div>
+
 <div style="display: flex; justify-content: center;">
   <a href="https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=dawidolko&show_icons=true&theme=radical" alt="nullfresh's GitHub stats">
