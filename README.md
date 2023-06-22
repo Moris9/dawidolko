@@ -15,7 +15,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid 👨‍💻
 
-# You can check my profile stats here.
+# You can check my profile stats here:
 
 <div align="center">
   
