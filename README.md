@@ -15,7 +15,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid 👨‍💻
 
-# You can check my profile stats here.😊
+# You can check my profile stats here.
 
 <div align="center">
   
@@ -51,7 +51,7 @@ Dawid 👨‍💻
 </p>
 </div>
 
-# 🌐 **Connect with me:**
+# **Connect with me:**
 
 <p align="center">
     <a href="https://outlook.live.com/mail/0/">
