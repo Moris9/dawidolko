@@ -1,4 +1,4 @@
-# Hi, I am Dawid! 👋
+# Hi, I am Dawid! 👋 
 
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠 
 
