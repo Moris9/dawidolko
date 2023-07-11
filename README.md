@@ -1,7 +1,6 @@
 # Hi, I am Dawid! 👋 
 
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠 
-
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
 
 My passion for artificial intelligence goes beyond my studies - I aim to understand its various aspects and how it can be applied to solve real-world problems.
