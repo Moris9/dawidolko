@@ -11,6 +11,7 @@ I believe that the future of technology lies in the hands of AI, and I am excite
 On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. 
 
 With each project, I aim to learn something new and enhance my skills.
+
 Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
 
 Thank you for visiting my profile. I'm glad you're here! 🎉
