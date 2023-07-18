@@ -27,7 +27,6 @@ Dawid  👨‍💻
   </a>
   
   <a href="https://github.com/dawidolko">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawidolko&hide_border=true&card_width=50%&theme=transparent" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
