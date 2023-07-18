@@ -41,7 +41,7 @@ Dawid  👨‍💻
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=tokyonight" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=cobalt" alt="Language stats.">
 </div>
 
 ## **Skills & Technologies:**
