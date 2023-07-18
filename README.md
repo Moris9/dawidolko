@@ -47,6 +47,8 @@ Dawid  👨‍💻
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dawidolko&theme=transparent" alt="Language stats.">
 </div>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?dawidolko=ffflabs)](https://github.com/dawidolko)
+
 ## **Skills & Technologies:**
 
 <div align="center">
