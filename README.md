@@ -81,6 +81,14 @@ Dawid  👨‍💻
 
 ## **Connect with me:**
 
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+  </a>
+</p>
+</div>
+
 <p align="center">
   <a href="https://twitter.com/dawidolko">
     <img src="https://skillicons.dev/icons?i=twitter" />
