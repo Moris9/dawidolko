@@ -22,9 +22,6 @@ Dawid  👨‍💻
 
 <div align="center">
   
-  <a href="https://github.com/dawidolko">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
   
   <a href="https://github.com/dawidolko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&theme=slateorange" />
@@ -35,6 +32,11 @@ Dawid  👨‍💻
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=orange" alt="Language stats.">
 </div>
+
+  <a href="https://github.com/dawidolko">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  </a>
+
   
 <div align="center">
   <a href="https://github.com/dawidolko">
