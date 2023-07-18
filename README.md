@@ -16,7 +16,7 @@ Feel free to explore my projects and reach out to me if you have any questions o
 
 Thank you for visiting my profile. I'm glad you're here! 🎉
 
-Dawid 👨‍💻
+Dawid  👨‍💻
 
 ## **My profile stats here:**
 
