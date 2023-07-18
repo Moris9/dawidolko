@@ -35,7 +35,8 @@ Dawid  👨‍💻
   
 <div align="center">
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&card_width=50%&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
   </a>
 </div>
 
