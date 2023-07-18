@@ -50,7 +50,7 @@ Dawid  👨‍💻
 <div align="center">
   <p align="center">
   <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/languages:-green" />
+    <img src="https://img.shields.io/badge/Languages:-orange" />
   </a>
 </p>
 </div>
@@ -66,7 +66,7 @@ Dawid  👨‍💻
 <div align="center">
   <p align="center">
   <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/development:-green" />
+    <img src="https://img.shields.io/badge/Development:-orange" />
   </a>
 </p>
 </div>
