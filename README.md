@@ -28,7 +28,7 @@ Dawid  👨‍💻
   </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=orange" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
 
 <div align="center">
