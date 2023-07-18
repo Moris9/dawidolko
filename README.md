@@ -59,14 +59,6 @@ Dawid  👨‍💻
 ## **Connect with me:**
 
 <p align="center">
-    <a href="https://outlook.live.com/mail/0/">
-        <img src="https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/Email.png" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/dawidolko/">
-        <img src="https://github.com/dawidolko/dawidolko/blob/56f78da9946c4f997a8778685bd26229b2da750c/LikedIn.png" alt="LinkedIn">
-    </a>
-</p>
-<p align="center">
   <a href="https://twitter.com/dawidolko">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
@@ -78,7 +70,14 @@ Dawid  👨‍💻
   </a>
 </p>
 
-
+<p align="center">
+    <a href="https://outlook.live.com/mail/0/">
+        <img src="https://github.com/dawidolko/dawidolko/blob/c1b9b9780688dd538d0578fe9d261248f4ea5d4d/Email.png" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="https://github.com/dawidolko/dawidolko/blob/56f78da9946c4f997a8778685bd26229b2da750c/LikedIn.png" alt="LinkedIn">
+    </a>
+</p>
 
 <p align="center"> 
   Visitors :<br>
