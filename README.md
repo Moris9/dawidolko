@@ -55,6 +55,14 @@ Dawid  👨‍💻
 </p>
 </div>
 
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://img.shields.io/badge/code:-c-blue" />
+  </a>
+</p>
+</div>
+
 [![](https://img.shields.io/badge/code:-c-blue)]()
 
 <div align="center">
