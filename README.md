@@ -54,7 +54,8 @@ Dawid  👨‍💻
   </a>
 </p>
 </div>
-[![test](https://img.shields.io/badge/code:-c)]()
+
+[![](https://img.shields.io/badge/code:-c-blue)]()
 
 <div align="center">
   <p align="center">
