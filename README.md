@@ -58,12 +58,10 @@ Dawid  👨‍💻
 <div align="center">
   <p align="center">
   <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/code:-c-blue" />
+    <img src="https://img.shields.io/badge/code:-c_c++_c#_java_python_javascript_css_html_php_typescript-blue" />
   </a>
 </p>
 </div>
-
-[![](https://img.shields.io/badge/code:-c-blue)]()
 
 <div align="center">
   <p align="center">
