@@ -32,16 +32,15 @@ Dawid  👨‍💻
   
   </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=orange" alt="Language stats.">
+</div>
   
 <div align="center">
   <a href="https://github.com/dawidolko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=orange" alt="Language stats.">
 </div>
 
 ## **Skills & Technologies:**
