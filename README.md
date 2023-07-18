@@ -51,10 +51,10 @@ Dawid  👨‍💻
   <p align="center">
   <a href="https://github.com/dawidolko">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,php,ts" />
-    [![test](https://img.shields.io/badge/code:-c)]()
   </a>
 </p>
 </div>
+[![test](https://img.shields.io/badge/code:-c)]()
 
 <div align="center">
   <p align="center">
