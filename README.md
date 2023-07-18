@@ -23,11 +23,11 @@ Dawid  👨‍💻
 <div align="center">
   
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&theme=slateorange" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
   <a href="https://github.com/dawidolko">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&theme=slateorange" />
   </a>
   
   </div>
