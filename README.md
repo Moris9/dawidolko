@@ -64,14 +64,14 @@ Dawid  👨‍💻
     </a>
 </p>
 <p align="center">
-  ⚡<a href="https://www.linkedin.com/in/dawidolko">LinkedIn</a>⚡
-  <a href="https://twitter.com/dawidolko">Twitter</a>⚡
-  <a href="https://www.facebook.com/Dawid.0lko">Facebook</a>⚡
-  <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
-</p>
-  <a href="https://github.com/dawidolko](https://www.linkedin.com/in/dawidolko">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/dawidolko">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <a href="https://www.instagram.com/dawid_olko">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
 
 <p align="center"> 
   Visitors :<br>
