@@ -48,7 +48,8 @@ Dawid  👨‍💻
 <div align="center">
   <p align="center">
   <a href="https://github.com/dawidolko">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,php,ts,git,visualstudio,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css,php,ts" />
+    <img src="git,visualstudio,vscode,idea" />
   </a>
 </p>
 </div>
@@ -64,13 +65,17 @@ Dawid  👨‍💻
     </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dawidolko">
+  <a href="https://twitter.com/dawidolko">
     <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+    <a href="https://stackoverflow.com/users/22248754/dawid-olko">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   <a href="https://www.instagram.com/dawid_olko">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
 
 
 <p align="center"> 
