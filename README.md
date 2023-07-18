@@ -69,6 +69,9 @@ Dawid  👨‍💻
   <a href="https://www.facebook.com/Dawid.0lko">Facebook</a>⚡
   <a href="https://www.instagram.com/dawid_olko">Instagram</a>⚡
 </p>
+  <a href="https://github.com/dawidolko](https://www.linkedin.com/in/dawidolko">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
 <p align="center"> 
   Visitors :<br>
