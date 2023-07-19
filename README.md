@@ -110,12 +110,6 @@ Dawid  👨‍💻
     </a>
 </p>
 
-
-<br>![LiknedIn](Email.png)
-
-<br>![LiknedIn](LikedIn.png)
-
-
 <p align="center"> 
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
