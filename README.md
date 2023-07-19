@@ -58,7 +58,7 @@ Dawid  👨‍💻
 <div align="center">
   <p align="center">
   <a href="https://github.com/dawidolko">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
   </a>
 </p>
 </div>
