@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=30&pause=1000&color=F7B321&center=true&width=435&lines=Hi%2C+I'm+Dawid!+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=30&pause=1000&color=F7B321&width=500&height=70&lines=Hi%2C+I'm+Dawid!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠 
 
