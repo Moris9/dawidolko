@@ -110,6 +110,15 @@ Dawid  👨‍💻
     </a>
 </p>
 
+<p align="center">
+    <a href="https://outlook.live.com/mail/0/">
+        <br>![LiknedIn](Email.png)
+    </a>
+    <a href="https://www.linkedin.com/in/dawidolko/">
+        <br>![LiknedIn](LikedIn.png)
+    </a>
+</p>
+
 <p align="center"> 
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
