@@ -110,14 +110,11 @@ Dawid  👨‍💻
     </a>
 </p>
 
-<p align="center">
-    <a href="https://outlook.live.com/mail/0/">
-        <br>![LiknedIn](Email.png)
-    </a>
-    <a href="https://www.linkedin.com/in/dawidolko/">
-        <br>![LiknedIn](LikedIn.png)
-    </a>
-</p>
+
+<br>![LiknedIn](Email.png)
+
+<br>![LiknedIn](LikedIn.png)
+
 
 <p align="center"> 
   Visitors :<br>
