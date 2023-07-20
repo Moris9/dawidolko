@@ -18,6 +18,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid  👨‍💻
 
+![alt text][logo]
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
     <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge"
