@@ -154,4 +154,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/eesa.gif">
+</p>
