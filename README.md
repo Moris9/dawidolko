@@ -18,6 +18,9 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid  👨‍💻
 
+[![Sponsor dawidolko](https://github.com/sponsors/dawidolko/card)](https://github.com/sponsors/dawidolko)
+
+
 ## **My profile stats here:**
 
 <div align="center">
