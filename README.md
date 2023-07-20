@@ -20,6 +20,11 @@ Dawid  👨‍💻
 
 <iframe src="https://github.com/sponsors/dawidolko/card" title="Sponsor dawidolko" height="225" width="600" style="border: 0;"></iframe>
 
+<div align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://github.com/sponsors/dawidolko/card" title="Sponsor dawidolko" height="225" width="600" style="border: 0;" />
+  </a>
+
 ## **My profile stats here:**
 
 <div align="center">
