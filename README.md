@@ -18,7 +18,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid  👨‍💻
 
-![alt text][logo]
+![alt text](https://github.com/dawidolko/dawidolko/blob/3852f1c0d8fdde1a6b6ac8f785166b1ae5adf6d6/logo.png)
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
     <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge"
