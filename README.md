@@ -71,6 +71,9 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ## **Skills & Technologies:**
 
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+
+
 <div align="center">
   <p align="center">
   <a href="https://github.com/dawidolko">
