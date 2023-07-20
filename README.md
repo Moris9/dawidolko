@@ -20,10 +20,16 @@ Dawid  👨‍💻
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
-    <img src="Portret.png" alt="Email">
+    <img src="Portret.png" alt="Portret" width="200">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/dawidolko">
+    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
 
 ## **My profile stats here:**
 
