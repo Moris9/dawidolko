@@ -1,5 +1,17 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=30&pause=1000&color=F7B321&width=500&height=70&lines=Hi%2C+I'm+Dawid!+%F0%9F%91%8B)](https://github.com/dawidolko/dawidolko)
 
+<p align="center">
+  <a href="https://github.com/sponsors/dawidolko">
+    <img src="Portret.jpg" alt="Portret" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/dawidolko">
+    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠 
 
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
@@ -17,19 +29,6 @@ Feel free to explore my projects and reach out to me if you have any questions o
 Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid  👨‍💻
-
-<p align="center">
-  <a href="https://github.com/sponsors/dawidolko">
-    <img src="Portret.jpg" alt="Portret" width="200">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/dawidolko">
-    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
-  </a>
-</p>
-
 
 ## **My profile stats here:**
 
