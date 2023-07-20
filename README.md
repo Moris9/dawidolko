@@ -20,9 +20,8 @@ Dawid  👨‍💻
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge"
-      ![alt text](https://github.com/dawidolko/dawidolko/blob/541777e45eca8840ab09787e848bcc30490f7456/Portret.jpg)
-      alt="https://github.com/dawidolko/dawidolko/blob/3852f1c0d8fdde1a6b6ac8f785166b1ae5adf6d6/logo.png" width="200">
+    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
+    <img src="Portret.png" alt="Email">
   </a>
 </p>
 
