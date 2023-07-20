@@ -18,6 +18,8 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid  👨‍💻
 
+<iframe src="https://github.com/sponsors/dawidolko/card" title="Sponsor dawidolko" height="225" width="600" style="border: 0;"></iframe>
+
 ## **My profile stats here:**
 
 <div align="center">
