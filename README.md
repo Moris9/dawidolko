@@ -57,7 +57,7 @@ Dawid  👨‍💻
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/dawidolko?tab=repositories">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
   </a>
 </p>
@@ -73,7 +73,7 @@ Dawid  👨‍💻
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/dawidolko?tab=repositories">
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
   </a>
 </p>
