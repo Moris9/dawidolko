@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="Portret.jpg" alt="Portret" width="300">
+    <img src="Portret.jpg" alt="Portret" width="400">
   </a>
 </p>
 
