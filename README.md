@@ -112,7 +112,7 @@ Dawid  👨‍💻
 </div>
 
 <p align="center">
-    <a href="https://outlook.live.com/mail/0/">
+    <a href="mailto:poczta@dawidolko.pl">
         <img src="Email.png" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/dawidolko/">
