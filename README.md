@@ -41,9 +41,6 @@ Feel free to explore my projects and reach out to me if you have any questions o
 <p align="center">
 Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
-<p align="center">
-Dawid  👨‍💻
-</p>
 
 ## **My profile stats here:**
 
