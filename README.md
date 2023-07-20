@@ -24,9 +24,6 @@ Dawid  👨‍💻
   </a>
 </p>
 
-
-[![Wsparcie Dawida](https://img.shields.io/badge/Patronite-Sponsoruj-ff69b4)](https://github.com/sponsors/dawidolko)
-
 ## **My profile stats here:**
 
 <div align="center">
