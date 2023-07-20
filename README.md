@@ -17,6 +17,7 @@
   </a>
 </p>
 
+<p align="center">
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠 
 
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
@@ -34,6 +35,7 @@ Feel free to explore my projects and reach out to me if you have any questions o
 Thank you for visiting my profile. I'm glad you're here! 🎉
 
 Dawid  👨‍💻
+</p>
 
 ## **My profile stats here:**
 
