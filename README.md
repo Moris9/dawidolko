@@ -20,7 +20,7 @@ Dawid  👨‍💻
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="Portret.png" alt="Portret" width="200">
+    <img src="Portret.jpg" alt="Portret" width="200">
   </a>
 </p>
 
