@@ -20,7 +20,8 @@ Dawid  👨‍💻
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" alt="Logo Sponsors">
+    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge"
+      alt="logo.png" width="200">
   </a>
 </p>
 
