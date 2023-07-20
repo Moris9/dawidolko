@@ -8,13 +8,12 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="Portret.jpg" alt="Portret" width="300">
+    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/sponsors/dawidolko">
-    <img src="https://img.shields.io/badge/Sponsoruj-WSPIERAM-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge">
+    <img src="Portret.jpg" alt="Portret" width="300">
   </a>
 </p>
 
