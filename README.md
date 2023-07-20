@@ -155,5 +155,5 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 
 <p align="center">
-  <img src="https://github.com/dawidolko/dawidolko/blob/main/eesa.gif">
+  <img src="https://github.com/dawidolko/dawidolko/blob/edd82132c41e74eeff895d61555ec424756528f8/eesa.gif">
 </p>
