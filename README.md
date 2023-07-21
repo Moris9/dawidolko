@@ -142,6 +142,15 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   </a>
 </p>
 
+<p align="center">
+    <a href="mailto:poczta@dawidolko.pl">
+        <img src="Email.png" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/dawidolko/">
+        <img src="LikedIn.png" alt="LinkedIn">
+    </a>
+</p>
+
 <div align="center">
   <p align="center">
   <div> 
@@ -152,15 +161,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   </div>
   </p>
 </div>
-
-<p align="center">
-    <a href="mailto:poczta@dawidolko.pl">
-        <img src="Email.png" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/dawidolko/">
-        <img src="LikedIn.png" alt="LinkedIn">
-    </a>
-</p>
 
 <p align="center"> 
   Visitors :<br>
