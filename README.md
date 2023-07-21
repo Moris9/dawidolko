@@ -74,13 +74,14 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   </a>
 </div>
 
+## **Skills & Technologies:**
+
 <div align="center">
   <p align="center">
     <img src="https://count.getloli.com/get/@dawidolko.github.readme" width="200"/>
   </p>
 </div>
 
-## **Skills & Technologies:**
 <div align="center">
   <p align="center">
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
