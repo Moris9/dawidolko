@@ -1,4 +1,6 @@
-![](assets/Bottom_up.svg)
+<p align="center">
+  <img src="assets/Bottom_up.svg">
+</p>
 
 <div align="center">
   <h1>
@@ -171,4 +173,6 @@ counting of visitors to this page in this section started from June 12, 2022
   <img src="eesa.gif">
 </p>
 
-![](assets/Bottom_down.svg)
+<p align="center">
+  <img src="assets/Bottom_down.svg">
+</p>
