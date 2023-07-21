@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 <div align="center">
   <h1>
     <a href="https://github.com/dawidolko/dawidolko">
@@ -68,6 +70,16 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
   </a>
+</div>
+
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+## **Skills & Technologies:**
+<div align="center">
+  <p align="center">
+    <img src="https://count.getloli.com/get/@dawidolko.github.readme" width="200"/>
+  </p>
 </div>
 
 ## **Skills & Technologies:**
@@ -158,3 +170,5 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <p align="center">
   <img src="eesa.gif">
 </p>
+
+![](assets/Bottom_down.svg)
