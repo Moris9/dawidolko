@@ -149,7 +149,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
         <img src="LikedIn.png" alt="LinkedIn">
     </a>
 </p>
-
 <div align="center">
   <p align="center">
   <div> 
