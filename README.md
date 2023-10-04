@@ -171,5 +171,9 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 </p>
 
 <p align="center">
+  <img src="https://github.com/dawidolko/dawidolko/blob/main/gitartwork.svg">
+</p>
+
+<p align="center">
   <img src="assets/Bottom_down.svg">
 </p>
