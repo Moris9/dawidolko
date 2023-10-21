@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠 
+I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠
 </p>
 <p align="center">
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
